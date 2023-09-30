@@ -1,4 +1,4 @@
-# TWC_3D Array
+# TWC202309_3D Array
 
 This is the simulation code to reproduce the results of the paper:
 
